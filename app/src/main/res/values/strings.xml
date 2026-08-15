@@ -10,4 +10,23 @@
     <string name="strict_title">Strict mode active</string>
     <string name="strict_message">You have used all mindful opens for today.</string>
     <string name="accessibility_service_description">FocusGate uses accessibility to detect and block distracting apps.</string>
+    <!-- Onboarding strings -->
+<string name="onboarding_welcome_description">FocusGate helps you stop autopilot scrolling by placing a calm decision wall before distracting apps.</string>
+<string name="onboarding_problem">Students and professionals often open distracting apps without intention. FocusGate creates a mindful pause.</string>
+
+<string name="onboarding_permissions_title">Permissions Required</string>
+<string name="onboarding_permissions_description">To protect your focus, FocusGate needs a few permissions. Please grant each one.</string>
+<string name="onboarding_grant_accessibility">Grant Accessibility</string>
+<string name="onboarding_grant_usage_stats">Grant Usage Stats</string>
+<string name="onboarding_grant_overlay">Grant Overlay</string>
+<string name="onboarding_grant_battery">Disable Battery Optimization</string>
+
+<string name="onboarding_accessibility_title">Accessibility Service</string>
+<string name="onboarding_accessibility_description">FocusGate uses accessibility to detect when you open distracting apps. It does not read your screen content or store any data.</string>
+
+<string name="onboarding_usage_title">Usage Stats &amp; Overlay</string>
+<string name="onboarding_usage_description">Usage Stats help identify which apps you use. Overlay permission allows FocusGate to show the mindful wall on top of other apps.</string>
+
+<string name="onboarding_finish_title">You\'re all set!</string>
+<string name="onboarding_finish_description">FocusGate is now ready to protect your focus. Tap Done to start.</string>
 </resources>
