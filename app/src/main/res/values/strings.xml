@@ -9,4 +9,5 @@
     <string name="remaining_uses">Remaining mindful uses: %1$d of 5</string>
     <string name="strict_title">Strict mode active</string>
     <string name="strict_message">You have used all mindful opens for today.</string>
+    <string name="accessibility_service_description">FocusGate uses accessibility to detect and block distracting apps.</string>
 </resources>
